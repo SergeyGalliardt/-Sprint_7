@@ -1,0 +1,1 @@
+{"firstName":"ЛУЭЗГМЮДср","lastName":"зулсжьМьгш","address":"ТУЕтПМмхъЖ","metroStation":"24","phone":"+73348245030","rentTime":2,"deliveryDate":"2024-09-10","comment":"nxRCXuxuEKfzKOkQBoLr","color":["BLACK"]}
